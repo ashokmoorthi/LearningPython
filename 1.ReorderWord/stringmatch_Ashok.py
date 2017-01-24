@@ -9,6 +9,7 @@
 print("This program checks if the provided input is substring of first String or not" )
 
 import sys
+Tobecomaprestring = ''
 input_text_string = input('Please Enter the String: ')
 print('Your input String:', input_text_string)
 substring = input('Please Enter the sub string to check part of the String: ')
